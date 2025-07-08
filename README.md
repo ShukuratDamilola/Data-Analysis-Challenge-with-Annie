@@ -55,3 +55,20 @@ How can students improve their academic performance and well-being by adjusting 
 	•	Provide mental health support and check-ins
 	•	Promote screen time for educational purposes
 	•	Identify students at risk early and offer support programs
+## 2. Screen Time Analysis
+
+I tracked 7 days of my digital activity to understand my screen time habits and how they impact my productivity and routine.
+
+# Key Findings
+# Patterns and Trends
+YouTube dominates my app usage, far ahead of any other app.
+My overall screen time dips mid-week, likely due to a busier schedule and fewer distractions during that time.
+# Surprises
+The biggest surprise was the huge gap between YouTube and all other applications — it wasn’t even close.
+# Expectations Vs Reality
+I expected entertainment to be the top category, but I didn’t anticipate just how much time I was spending specifically on YouTube.
+# Recommendations
+I should set a daily YouTube limit or schedule watch times. I could also consider reallocating some of that time to more educational content or screen-free activities.
+# What the Data Tells Me About My Habits
+	•	My phone pickups are high, averaging 81 per day, which may suggest frequent interruptions or unconscious habit-driven checking.
+	•	I tend to use my phone more at the start and end of the week, with a noticeable dip in the middle — possibly due to changes in my daily routine or workload.
