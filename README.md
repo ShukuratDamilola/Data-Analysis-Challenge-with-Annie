@@ -15,30 +15,30 @@ How can students improve their academic performance and well-being by adjusting 
 	•	Is there a healthy balance that leads to top scores?
 
 # Tools Used
-•	Microsoft Excel – Data Cleaning, Regression Analysis, Hypothesis Testing, Coefficient Interpretation
-•	Power BI – Data Visualization, KPI Tracking, Dashboard Creation, DAX Measures
+	•	Microsoft Excel – Data Cleaning, Regression Analysis, Hypothesis Testing, Coefficient Interpretation
+	•	Power BI – Data Visualization, KPI Tracking, Dashboard Creation, DAX Measures
 
 # Steps Taken
-
 1. Data Cleaning (Excel)
-	•	Auto-fitted rows and columns for readability
-	•	Verified there were no missing values
-	•	Checked for and confirmed no duplicates
-	•	Ensured all columns had the correct data types
-	•	Reviewed for invalid or inconsistent entries (all data valid)
-	•	Standardized category labels and formatting
+   
+		Auto-fitted rows and columns for readability
+		Verified there were no missing values
+		Checked for and confirmed no duplicates
+		Ensured all columns had the correct data types
+		Reviewed for invalid or inconsistent entries (all data valid)
+		Standardized category labels and formatting
 
 2. Data Analysis
-	•	Multiple Linear Regression
-	•	Study time had the biggest impact — each additional hour predicted +9.57 points in exam score
-	•	Positive predictors: Study time, attendance, mental health
-	•	Negative predictors: Social media use, Netflix hours
-	•	Neutral predictors: Sleep and exercise
-	•	Hypothesis Testing (Independent T-Test)
-	•	Compared exam scores between students with high vs. low mental health ratings
-	•	Purpose: To determine if mental health significantly affects academic performance
+   
+		**Multiple Linear Regression**
+   		Study time had the biggest impact — each additional hour predicted +9.57 points in exam score
+		Positive predictors: Study time, attendance, mental health
+   		Negative predictors: Social media use, Netflix hours
+   		Neutral predictors: Sleep and exercise
+   		**Hypothesis Testing (Independent T-Test)**
+   		Compared exam scores between students with high vs. low mental health ratings to determine if mental health significantly affects academic performance
 
-3. Data Visualization (Power BI)
+4. Data Visualization (Power BI)
 	•	Scatter Plot – Showed a clear positive trend between study time and exam scores
 	•	Bar Chart – Highlighted how study time and screen time affect academic performance
 	•	KPI Cards – Displayed averages for exam scores, study time, sleep, and mental health and DAX for High performers.
