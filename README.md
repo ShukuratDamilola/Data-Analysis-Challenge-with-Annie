@@ -15,8 +15,8 @@ How can students improve their academic performance and well-being by adjusting 
 	•	Is there a healthy balance that leads to top scores?
 
 # Tools Used
-	•	Microsoft Excel – Data Cleaning, Regression Analysis, Hypothesis Testing, Coefficient Interpretation
-	•	Power BI – Data Visualization, KPI Tracking, Dashboard Creation, DAX Measures
+•	Microsoft Excel – Data Cleaning, Regression Analysis, Hypothesis Testing, Coefficient Interpretation
+•	Power BI – Data Visualization, KPI Tracking, Dashboard Creation, DAX Measures
 
 # Steps Taken
 
