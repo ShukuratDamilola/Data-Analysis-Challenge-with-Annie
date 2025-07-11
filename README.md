@@ -30,12 +30,12 @@ How can students improve their academic performance and well-being by adjusting 
 
 2. Data Analysis
    
-   		#Multiple Linear Regression
+   		# Multiple Linear Regression
    		Study time had the biggest impact — each additional hour predicted +9.57 points in exam score
 		Positive predictors: Study time, attendance, mental health
    		Negative predictors: Social media use, Netflix hours
    		Neutral predictors: Sleep and exercise
-   		#Hypothesis Testing (Independent T-Test)
+   		# Hypothesis Testing (Independent T-Test)
    		Compared exam scores between students with high vs. low mental health ratings to determine if mental health significantly affects academic performance
 
 4. Data Visualization (Power BI)
