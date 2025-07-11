@@ -15,8 +15,8 @@ How can students improve their academic performance and well-being by adjusting 
 	•	Is there a healthy balance that leads to top scores?
 
 # Tools Used
-	•	Microsoft Excel – Data Cleaning, Regression Analysis, Coefficient Interpretation
-	•	Power BI – Data Visualization, KPI Tracking, Dashboard Creation
+	•	Microsoft Excel – Data Cleaning, Regression Analysis, Hypothesis Testing, Coefficient Interpretation
+	•	Power BI – Data Visualization, KPI Tracking, Dashboard Creation, DAX Measures
 
 # Steps Taken
 
@@ -40,9 +40,8 @@ How can students improve their academic performance and well-being by adjusting 
 
 3. Data Visualization (Power BI)
 	•	Scatter Plot – Showed a clear positive trend between study time and exam scores
-	•	Bar Chart – Highlighted how different habits affect academic performance
-	•	Pie Chart – Showed over half of top scorers had high mental health ratings
-	•	KPI Cards – Displayed averages for exam scores, study time, sleep, and mental health
+	•	Bar Chart – Highlighted how study time and screen time affect academic performance
+	•	KPI Cards – Displayed averages for exam scores, study time, sleep, and mental health and DAX for High performers.
 
 # Key Findings
 	•	Students who study more tend to score higher
